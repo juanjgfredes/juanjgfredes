@@ -24,10 +24,10 @@ Actualmente aprendiendo de forma autodidacta **Go**
 
 ---
 <p>
-  <a href="https://www.linkedin.com/in/mathieu-ledru">
+  <a href="https://www.linkedin.com/in/juanjgfredes">
     <img align="left" width="32px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/>
   </a>
-  <a href="mailto:matyo91@gmail.com">
+  <a href="mailto:juanjgfredes@gmail.com">
     <img align="left" width="32px" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/>
   </a>
 </p>
