@@ -9,6 +9,11 @@
 
 Actualmente aprendiendo de forma autodidacta **Go**
 
+### Proyecto destacado donde muestro mis habilidades: 
+<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" />
+</a>
+
 ---
 <p>
   <a href="https://www.linkedin.com/in/mathieu-ledru">
