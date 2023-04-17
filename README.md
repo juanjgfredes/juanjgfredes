@@ -9,10 +9,18 @@
 
 Actualmente aprendiendo de forma autodidacta **Go**
 
-### Proyecto destacado donde muestro mis habilidades: 
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" />
-</a>
+<table style="border: 89px solid white;">
+  <tr>
+    <td style="vertical-align:middle">
+      <h3>Proyecto destacado donde muestro mis habilidades:</h3>
+    </td>
+    <td>
+      <a href="https://github.com/juanjgfredes/escuela-backend">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanjgfredes&repo=escuela-backend&theme=dark&card_width=" alt="Escuela Backend">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 <p>
