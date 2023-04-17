@@ -16,13 +16,17 @@ Actualmente aprendiendo de forma autodidacta **Go**
     </td>
     <td>
       <a href="https://github.com/juanjgfredes/escuela-backend">
-      <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=juanjgfredes&repo=escuela-backend&theme=dark" media="(prefers-color-scheme: dark)">
-        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=juanjgfredes&repo=escuela-backend&theme=transparent" media="(prefers-color-scheme: light)">
+        <picture>
+          <source 
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=juanjgfredes&repo=escuela-backend&theme=dark"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=juanjgfredes&repo=escuela-backend"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanjgfredes&repo=escuela-backend" />
       </picture>
-      </a>
-      <a href="https://github.com/juanjgfredes/escuela-backend">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanjgfredes&repo=escuela-backend&theme=dark&card_width=" alt="Escuela Backend">
       </a>
     </td>
   </tr>
