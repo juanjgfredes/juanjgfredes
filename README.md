@@ -11,13 +11,23 @@ Actualmente aprendiendo de forma autodidacta **Go**
 
 ---
 <p>
+  <a href="https://www.linkedin.com/in/mathieu-ledru">
+    <img align="left" width="32px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/>
+  </a>
+  <a href="mailto:matyo91@gmail.com">
+    <img align="left" width="32px" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/>
+  </a>
+</p>
+<!-- 
+<p>
   <a href="https://br.linkedin.com/in/felipevpeters">
     <img align="left" alt="Felipe's LinkdeIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/linkedin.svg" />
   </a>
   <a href="mailto:fveronezipeters@gmail.com">
     <img align="left" alt="GMail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />
   </a>
-</p>
+</p> 
+-->
 
 <!--
 **juanjgfredes/juanjgfredes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
