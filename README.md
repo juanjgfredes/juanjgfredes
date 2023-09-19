@@ -2,10 +2,11 @@
 <p align="center">Soy <strong>Programador Backend</strong>, pero tambien dispuesto a aprender nuevas tecnologias en busca de mi primer empleo en IT</p>
 
 ### Habilidades principales
-- Lenguaje: **Java**
+- Lenguaje principal: **Java**
 - Framework: **Spring**
 - Base de datos: **MySQL**
 - Control de versiones: **GIT**
+- Manejo basico de front: **Angular**
 
 Actualmente aprendiendo de forma autodidacta **Go**
 
